@@ -11,3 +11,4 @@ At the time of this summary, the repository contains only a short `README.md` na
 ## Documentation status
 
 This summary records the project identity and the limits of what can be verified from the current repository. As implementation details become available, the README and this summary can be expanded with the simulator's model, setup instructions, example usage, and validation approach.
+<!-- SHA-256 (content before this edit): 4e868ee7c5808b093ab9ee3381052e940133842916d6efda9ffc557e28cdf35e -->
